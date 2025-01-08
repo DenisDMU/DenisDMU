@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Denis !
 👨‍💻 I’m a junior developer at Keops Concept, currently in a work-study program with ESTIAM.
+<br> Front or Back ? Why not both 😁
 <br>📚 I started my journey in 2024 and am loving every step of it!
 <br>🎮 I also love card games, video games,cinema, books.
 <br>✨ Enjoy the ride !
