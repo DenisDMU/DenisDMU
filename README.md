@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Denis!
 
-I'm a passionate developer with a love for clean design and UI/UX.
+I'm a passionate developer with a love for databases, backend, and all that jazz, but I also have a guilty pleasure for design, UI/UX too! 
 
 ## About Me
 - 📚 Constant learner and enthusiastic about new technologies.
@@ -8,7 +8,7 @@ I'm a passionate developer with a love for clean design and UI/UX.
 - ✨ Dedicated to creating all sorts of cool stuff.
 
 ## Skills
-- **Frameworks:** I have experience working with frameworks like React, NextJS, Flask.
+- **Frameworks:** I have experience working with frameworks like React, NextJS, Flask, Laravel.
 - **Databases:** I enjoy working with databases and have a guilty love of SQL.
 - **Design:** I have a strong love for applications tat are both functional and visually appealing.
 - **Backend:** I specialize in backend development with PHP and Laravel (but my heart beats for the frontend too!).
