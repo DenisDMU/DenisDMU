@@ -9,9 +9,9 @@ I'm a passionate developer with a love for databases, backend, and all that jazz
 
 ## Skills
 - **Frameworks:** I have experience working with frameworks like React, NextJS, Flask, Laravel, Flutter.
-- **Databases:** I enjoy working with databases and have a guilty love of SQL. I can also work with NoSQL, got some experiences with mongo and firebase.
+- **Databases:** I enjoy working with databases and have a guilty love of SQL. I can also work with NoSQL, got some experiences with MongoDB and Firebase.
 - **Design:** I have a strong love for applications that are both functional and visually appealing.
-- **Backend:** I specialize in backend development with PHP and Laravel (but my heart beats for the frontend too!).
+- **Backend:** I specialize in backend development, playing with data is so much fun !(but my heart beats for the frontend too!).
 - **DevOps:** I have a little experience with Docker, Azure, and Kubernetes, but I am eager to learn more about each of them.
 
 ## Contact Me
