@@ -3,6 +3,7 @@
 
 <br>
 I'm a passionate developer with a love for databases, backend, and all that jazz, but I also have a guilty pleasure for design, UI/UX too! 
+<br>
 
 ## About Me
 - 📚 Constant learner and enthusiastic about new technologies.
