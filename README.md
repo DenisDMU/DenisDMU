@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=11E17E&center=true&width=435&lines=Welcome+!+)](https://git.io/typing-svg)
+<br>
 # 👋 Hi, I'm Denis!
 
 I'm a passionate developer with a love for databases, backend, and all that jazz, but I also have a guilty pleasure for design, UI/UX too! 
