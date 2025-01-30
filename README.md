@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=34&letterSpacing=1px;&pause=1000&color=07C538EE&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B++Hey+%2C+I'm+Denis+!+)](https://git.io/typing-svg)
 
 <br>
-I'm a passionate developer with a love for databases, backend, and all that jazz, but I also have a guilty pleasure for design, UI/UX too! 
+I'm a passionate developer with a love for databases, backend development, and all that jazz, but I also have a guilty pleasure for design and UI/UX!
 <br>
 
 ## About Me
@@ -12,10 +12,10 @@ I'm a passionate developer with a love for databases, backend, and all that jazz
 
 ## Skills
 - **Frameworks:** I have experience working with frameworks like React, NextJS, Flask, Laravel, Flutter.
-- **Databases:** I enjoy working with databases and have a guilty love of SQL. I can also work with NoSQL, got some experiences with MongoDB and Firebase.
+- **Databases:** I enjoy working with databases and have a guilty love of SQL. I can also work with NoSQL and have some experience with MongoDB and Firebase.
 - **Design:** I have a strong love for applications that are both functional and visually appealing.
-- **Backend:** I specialize in backend development, playing with data is so much fun !(but my heart beats for the frontend too!).
-- **DevOps:** I have a little experience with Docker, Azure, and Kubernetes, but I am eager to learn more about each of them.
+- **Backend:** I specialize in backend development; playing with data is so much fun! (but my heart beats for the frontend too!).
+- **DevOps:** I have some experience with Docker, Azure, and Kubernetes, but I am eager to learn more about each of them.
 
 ## Contact Me
 Feel free to reach out if you have any questions or opportunities!
