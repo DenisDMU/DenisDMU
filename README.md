@@ -1,5 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=34&letterSpacing=1px;&pause=1000&color=07C538EE&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B++Hey+%2C+I'm+Denis+!+)](https://git.io/typing-svg)
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=34&letterSpacing=1px;&pause=1000&color=07C538EE&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B++Hey+%2C+I'm+Denis+!+">
+  </a>
+</div>
 
 <br>
 I'm a passionate developer with a love for databases, backend development, and all that jazz, but I also have a guilty pleasure for design and UI/UX!
