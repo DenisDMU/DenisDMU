@@ -3,7 +3,9 @@
 </div>
 
 <br>
-I'm a passionate developer with a love for databases, backend development, and all that jazz, but I also have a guilty pleasure for design and UI/UX!
+<div align="center">
+  <i>I'm a passionate developer with a love for databases, backend development, and all that jazz, but I also have a guilty pleasure for design and UI/UX!</i>
+</div>
 <br>
 
 ## About Me
