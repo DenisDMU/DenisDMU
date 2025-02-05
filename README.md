@@ -30,5 +30,5 @@ Feel free to reach out if you have any questions or potential opportunities!
 
 <br>
 <p align="center" style="margin-top: 20px;">
-  <strong style="font-size: 24px;">See you soon, code cowboy 🤠✨</strong>
+  <strong style="font-size: 24px;">Enjoy the show !</strong>
 </p>
