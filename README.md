@@ -47,6 +47,5 @@ Feel free to reach out if you have any questions or potential opportunities!
 
 <br>
 <p align="center" style="margin-top: 20px;">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+&weight=500&size=24&pause=1000&color=15F739&width=435&lines=Enjoy+the+show+!)](https://git.io/typing-svg)
-
+  <strong style="font-size: 24px;">Enjoy the show ! </strong>
 </p>
