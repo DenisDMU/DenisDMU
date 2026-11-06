@@ -1,48 +1,49 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=34&letterSpacing=1px;&pause=1000&color=07C538EE&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B++Hey+%2C+I'm+Denis+!+">
+<!-- 🍂 Change with the season: spring.png, summer.png, autumn.png, winter.png -->
+<img src="assets/forest.png" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=40&duration=3000&pause=1000&color=7CC49C&center=true&vCenter=true&repeat=false&width=900&height=90&lines=Hey%2C+I'm+Denis+!+%F0%9F%91%8B" width="70%" />
+<br>
+<i>I'm a passionate developer with a love for databases, backend development, and all that jazz, but I also have a guilty pleasure for design and UI/UX!</i>
+<br><br>
+<pre>
+    💾 Fullstack dev • Guilty love of SQL • Data engineering
+    🎨 Strong love for functional & pretty apps • UI/UX
+    ☁️ DevSecOps & Cloud • Docker • Kubernetes • CI/CD
+    📚 Constant learner • New technologies
+    🎮 Video games • Cinema • Books • Cooking
+    ✨ Dedicated to creating all sorts of cool stuff
+</pre>
+<br>
+<img src="assets/bunny.gif" height="60" />
+<br><br>
+
+<!-- 🔗 Put your LinkedIn URL in place of YOUR_LINKEDIN -->
+[![](https://img.shields.io/badge/linkedin-9ed9b6)](https://www.linkedin.com/in/denisdmu)
+[![](https://img.shields.io/badge/portfolio-c9b6ec)](https://denisdmu.com)
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,cs,dart,bash&theme=light" height="36" />
+<br>
+<img src="assets/divider.svg" height="14" />
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,laravel,flask,fastapi,express,dotnet,flutter,tailwind&theme=light" height="36" />
+<br>
+<img src="assets/divider.svg" height="14" />
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,firebase,supabase,prisma,kafka&theme=light" height="36" />
+<img src="assets/data-icons.svg" height="36" />
+<br>
+<img src="assets/divider.svg" height="14" />
+<br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,terraform,ansible,gitlab,githubactions,linux&theme=light" height="36" />
+<br>
+<img src="assets/divider.svg" height="14" />
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,nodejs,npm,vite,postman,figma,notion&theme=light" height="36" />
+<img src="assets/composer-icon.svg" height="36" />
+
+<br><br>
+
+<sub>🍃 enjoy the show ! 🍃</sub>
 </div>
-
-<br>
-<div align="center">
-  <i>I'm a passionate developer with a love for databases, backend development, and all that jazz, but I also have a guilty pleasure for design and UI/UX!</i>
-</div>
-<br>
-
-## ✍️ About Me
-- 📚 Constant learner and enthusiastic about new technologies.
-- 🎮 Avid fan of card games, video games, cinema, and books.
-- ✨ Dedicated to creating all sorts of cool stuff.
-
-## 🛠️ Skills
-- **Frameworks:** I have experience working with frameworks like React, NextJS, Flask, Laravel, Flutter.
-- **Databases:** I enjoy working with databases and have a guilty love of SQL. I can also work with NoSQL and have some experience with MongoDB and Firebase.
-- **Design:** I have a strong love for applications that are both functional and visually appealing.
-- **Backend:** I specialize in backend development; playing with data is so much fun! (but my heart beats for the frontend too!).
-- **DevOps:** I have some experience with Docker, Azure, and Kubernetes, but I am eager to learn more about each of them.
-
-## 🌐 Contact Me
-Feel free to reach out if you have any questions or potential opportunities!
-
-## 🐰 Tech Stack
-
-### The basics
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-
-### Frameworks
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
- ![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-
-
-### Data
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
- 
-### Toolbox 
- 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Composer](https://img.shields.io/badge/composer-885630?style=for-the-badge&logo=composer&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-
-<br>
-<p align="center" style="margin-top: 20px;">
-  <strong style="font-size: 24px;">Enjoy the show ! </strong>
-</p>
