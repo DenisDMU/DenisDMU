@@ -1,5 +1,5 @@
 <div align="center">
-<!-- 🍂 Change with the season: spring.png, summer.png, autumn.png, winter.png -->
+
 <img src="assets/forest.png" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=40&duration=3000&pause=1000&color=7CC49C&center=true&vCenter=true&repeat=false&width=900&height=90&lines=Hey%2C+I'm+Denis+!+%F0%9F%91%8B" width="70%" />
 <br>
