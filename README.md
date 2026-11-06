@@ -17,12 +17,13 @@
 <img src="assets/bunny.gif" height="60" />
 <br><br>
 
-<!-- 🔗 Put your LinkedIn URL in place of YOUR_LINKEDIN -->
+
 [![](https://img.shields.io/badge/linkedin-9ed9b6)](https://www.linkedin.com/in/denisdmu)
 [![](https://img.shields.io/badge/portfolio-c9b6ec)](https://denisdmu.com)
 
+<br><br><br>
+<sub>✦ things I love to play with ✦</sub>
 <br><br>
-
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,cs,dart,bash&theme=light" height="36" />
 <br>
 <img src="assets/divider.svg" height="14" />
